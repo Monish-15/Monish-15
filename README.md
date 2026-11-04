@@ -1,207 +1,79 @@
-<!-- SETUP: replace YOUR_LINKEDIN with your LinkedIn handle (the LinkedIn button).
-  PHOTO: Option A (default) uses your GitHub avatar automatically.
-         Option B: upload a photo named  profile.jpg  to this repo and
-         swap the PHOTO line below as described in the comment there. -->
-
+<!-- Profile header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=fadeIn" alt="header" width="100%"/>
-
-<!-- PHOTO — Option A: GitHub avatar (default, circular) -->
-<img src="profile.jpg&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
-
-<!-- PHOTO — Option B: your own upload. Replace the line above with:
-<img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Monish-15/Monish-15/main/profile.jpg&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
--->
-
-# Monish Ram
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=40&lines=AI+%26+Data+Science+Undergraduate;Turning+data+into+insights;Building+ML+models+%26+full-stack+apps;Always+learning%2C+always+shipping" alt="Typing animation" />
-</a>
-
-<br/>
-
-![Karunya](https://img.shields.io/badge/🎓_Karunya_Institute-0D1117?style=flat-square&labelColor=0D1117&color=58a6ff)
-![Location](https://img.shields.io/badge/📍_Coimbatore,_India-0D1117?style=flat-square&labelColor=0D1117&color=58a6ff)
-![Webathon](https://img.shields.io/badge/🏆_Webathon_TEXPERIA_2026_Winner-0D1117?style=flat-square&labelColor=0D1117&color=58a6ff)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishramgnanasekar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monish-15)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## ✨ About
-
-</div>
-
-<p align="center">
-I'm an <b>AI & Data Science</b> undergraduate who enjoys working across the stack —<br/>
-from cleaning data and training models in Python to shipping full-stack apps with React, Next.js and FastAPI.<br/><br/>
-🔭 Building ML-powered, real-world dashboards &nbsp;•&nbsp; 🌱 Sharpening ML, data analysis & full-stack skills<br/>
-📬 Open to software development, data & analytics roles
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=190&section=header&text=Monish%20Ram&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Undergraduate&descAlignY=58&descSize=17" alt="Monish Ram — AI and Data Science Undergraduate" width="100%" />
+</div><div align="center">
+  <img src="./profile.jpg" alt="Monish Ram profile photo" width="140" />
+  <br />
+  <a href="https://www.linkedin.com/in/monishram10"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:monishramgnanasekar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Monish-15"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div><h2 align="center">Building useful things with data, AI, and software.</h2><p align="center">
+  I’m an AI & Data Science undergraduate interested in turning data and machine-learning ideas into practical applications. I work across the development lifecycle—from data preparation and model evaluation in Python to building interactive products with modern web technologies.
+</p>👋 About Me
+- 🎓 B.Tech student in Artificial Intelligence & Data Science at Karunya Institute of Technology and Sciences, Coimbatore.
+- 🔍 Interested in machine learning, data analytics, and full-stack application development.
+- 🧪 Enjoy experimenting with predictive models, exploratory data analysis, and AI-powered dashboards.
+- 🤝 Open to internships and opportunities in software development, data science, and analytics.
+- 📍 Coimbatore, India.
+🧰 Tech Stack
+Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css" alt="Python, Java, JavaScript, TypeScript, HTML and CSS" />
 </p>
-
-<br/>
-
+Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,tailwind" alt="React, Next.js, Node.js, FastAPI, Flask and Tailwind CSS" />
+</p>
+Data Science & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv" alt="scikit-learn and OpenCV" />
+  <br />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+Databases & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,postman" alt="MongoDB, MySQL, SQLite, Git, GitHub, VS Code and Postman" />
+</p>🚀 Featured Projects
+🫁 Asthma Risk Prediction
+An AQI-based dashboard that estimates asthma risk levels from hourly air-quality data across five Indian cities.
+- XGBoost model reported at 92% accuracy and 0.92 weighted F1-score.
+- Evaluated on 3,000 held-out samples from a 15,000-sample dataset.
+- Next.js and FastAPI dashboard with live AQI data.
+- Email and WhatsApp alerts for high-risk cases.
+Python XGBoost FastAPI Next.js
+📊 Automated EDA Tool
+A Python application that profiles tabular datasets and generates exploratory visualizations to accelerate initial data analysis.
+- Produces summary statistics and dataset-level insights.
+- Generates correlation heatmaps and visualizations.
+- Uses Pandas, Matplotlib, and Seaborn for analysis and plotting.
+Python Pandas Matplotlib Seaborn
+💸 FinTrack — AI Personal Finance Dashboard
+A personal-finance dashboard project focused on organizing financial activity and presenting useful insights through an interactive web interface.
+- Built with React, Vite, TypeScript, and Tailwind CSS.
+- Project repository: Monish-15/Fintrack
+React Vite TypeScript Tailwind CSS
+💼 Experience
+Data Science Intern — Alfido Tech
+June–July 2026
+- Cleaned and preprocessed 5,000+ records using Pandas and NumPy.
+- Performed exploratory data analysis to identify trends, correlations, and useful features.
+- Built predictive models with scikit-learn, reporting an F1-score of 0.85.
+Web Development Intern — Prodigy Infotech
+June–July 2024
+- Developed responsive, mobile-first web pages using HTML, CSS, and JavaScript.
+- Tested pages across browsers and screen sizes.
+- Converted design requirements into interactive web components.
+📊 GitHub Overview
 <div align="center">
-
-## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
-
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Web Development**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Data Science & Machine Learning**<br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
-
-**Visualization & Tools**<br/>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🫁 Asthma Risk Prediction
-**AQI-based dashboard**
-
-Predicts asthma risk (Low → Critical) from hourly air-quality data across five Indian cities.
-
-- XGBoost classifier: **92% accuracy**, **0.92 weighted F1**
-- Tested on 3,000 held-out samples (15,000 total)
-- Next.js + FastAPI dashboard with live AQI data
-- Automated **email & WhatsApp** alerts for high-risk cases
-
-`XGBoost` `FastAPI` `Next.js` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 EDA Tool
-**Automated exploratory data analysis**
-
-A Python tool that profiles any tabular dataset in one go.
-
-- Automated data profiling & summary statistics
-- Correlation heatmap generation
-- Auto-generated visual insights and pattern summaries
-- Cuts down manual analysis time
-
-`Pandas` `Matplotlib` `Seaborn` `Python`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 💼 Experience
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Data Science Intern**<br/>
-<sub>Alfido Tech • Jun – Jul 2026</sub>
-
-- Cleaned & preprocessed **5,000+ records** (Pandas, NumPy)
-- Ran EDA to surface trends, correlations and features
-- Built predictive models with scikit-learn — **0.85 F1-score**
-
-</td>
-<td width="50%" valign="top">
-
-**Web Development Intern**<br/>
-<sub>Prodigy Infotech • Jun – Jul 2024</sub>
-
-- Built responsive, mobile-first pages (HTML, CSS, JS)
-- Cross-browser compatibility testing
-- Turned design requirements into interactive components with a mentor-led team
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 🏅 Certifications
-
-![Azure](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals_(DP--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Developing_ML_Solutions-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Data_Pipeline_Builder-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-C_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-CCNA_SRWE-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Infosys](https://img.shields.io/badge/Infosys_Springboard-Java_Fundamentals-007CC3?style=flat-square)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📈 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Monish-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monish-15&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Monish-15&label=Profile+views&color=58a6ff&style=flat-square" alt="profile views" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="footer" width="100%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Monish-15&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Monish Ram's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-15&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" height="165" />
+</div><div align="center">
+  <img src="https://streak-stats.demolab.com?user=Monish-15&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div><div align="center">
+  <i>Always learning, building, and improving—one project at a time.</i>
 </div>
