@@ -1,22 +1,17 @@
-<!-- ============================================================
-  SETUP: Find & replace  YOUR_USERNAME  with your GitHub username
-  and YOUR_LINKEDIN with your LinkedIn handle.
-  Repo name must match your username (YOUR_USERNAME/YOUR_USERNAME)
-
+<!-- SETUP: replace YOUR_LINKEDIN with your LinkedIn handle (the LinkedIn button).
   PHOTO: Option A (default) uses your GitHub avatar automatically.
          Option B: upload a photo named  profile.jpg  to this repo and
-         swap the PHOTO line below as described in the comment there.
-============================================================= -->
+         swap the PHOTO line below as described in the comment there. -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=fadeIn" alt="header" width="100%"/>
 
 <!-- PHOTO — Option A: GitHub avatar (default, circular) -->
-<img src="https://wsrv.nl/?url=https://github.com/YOUR_USERNAME.png&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
+<img src="https://wsrv.nl/?url=https://github.com/Monish-15.png&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
 
 <!-- PHOTO — Option B: your own upload. Replace the line above with:
-<img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile.jpg&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
+<img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Monish-15/Monish-15/main/profile.jpg&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
 -->
 
 # Monish Ram
@@ -35,7 +30,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishramgnanasekar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monish-15)
 
 </div>
 
@@ -194,16 +189,16 @@ A Python tool that profiles any tabular dataset in one go.
 
 ## 📈 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Monish-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monish-15&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=58a6ff&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Monish-15&label=Profile+views&color=58a6ff&style=flat-square" alt="profile views" />
 
 <br/>
 
