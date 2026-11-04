@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=fadeIn" alt="header" width="100%"/>
 
 <!-- PHOTO — Option A: GitHub avatar (default, circular) -->
-<img src="https://wsrv.nl/?url=https://github.com/Monish-15.png&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
+<img src="profile.jpg&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
 
 <!-- PHOTO — Option B: your own upload. Replace the line above with:
 <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Monish-15/Monish-15/main/profile.jpg&w=300&h=300&fit=cover&mask=circle" width="150" alt="Monish Ram" />
